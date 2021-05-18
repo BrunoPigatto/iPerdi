@@ -48,7 +48,7 @@
                 
                 <div class="div_menu-lateral-img-link">
                     <img src="img/globe.svg" alt="">
-                    <a href="#">Feed de itens perdidos</a>
+                    <a href="feed.php">Feed de itens perdidos</a>
                 </div>
 
                 <div class="div_menu-lateral-img-link">

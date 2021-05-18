@@ -370,7 +370,7 @@ button:focus {
 .menu-toggle, .btn_menu-toggle {
     display: none;
 }
-.section-1_cadastrar-doc, .section_cadastro-doc {
+.section-1_cadastrar-doc, .section_cadastro-doc, .section_feed {
     width: 100%;
     height: 100vh;
     padding-left: 18%;
@@ -1187,6 +1187,75 @@ button:focus {
 .footer-sistema .footer_marca{
     width: 100%;
 }
+.feed_card{
+    width: 460px;
+    height: auto;
+    background-color: #FFFFFF;
+}
+.grid_feed{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.section_feed .cards{
+    padding-top: 50px;
+}
+.section_feed p{
+    margin-bottom: 0px;
+    margin-left: 12px;
+}
+
+.feed_card .avatar_nome{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.feed_card .img img{
+    width: 50px;
+    border-radius: 30px;
+}
+.feed_card{
+    padding: 18px 14px;
+    border-radius: 4px;
+}
+.feed_card .img{
+    display: flex;
+    align-items: center;
+}
+.feed_card .horario{
+    font-size: 12px;
+}
+.feed_card .horario p{
+    position: relative;
+    top: -20px;
+}
+.feed_card .documento{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 14px;
+}
+.feed_card .documento .infos{
+    width: 100%;
+}
+.feed_card .documento .infos span{
+    font-weight: 700;
+}
+.feed_card .div_tipo-cpf{
+    margin-right: 0px;
+}
+.feed_card .recompensa{
+    display: flex;
+    align-items: center;
+    margin-top: 22px;
+}
+.feed_card .recompensa img{
+    width: 30px;
+}
+.feed_card .recompensa span{
+    font-weight: 700;
+    color: #45AD4C;
+}
+
 
 /* Responsivo*/
 @media(max-width: 1666px){
