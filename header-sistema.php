@@ -58,7 +58,7 @@
                 
                 <div class="div_menu-lateral-img-link">
                     <img src="img/settings.svg" alt="">
-                    <a href="#">Configurações</a>
+                    <a href="configuracoes.php">Configurações</a>
                 </div>
 
             </div> <!-- Fim div_menu-lateral-links -->
