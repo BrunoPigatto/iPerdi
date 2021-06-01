@@ -10,7 +10,7 @@
                 <form action="" class="d-flex">
                     <input type="email" id="email" placeholder="Email">
                     <input type="password" id="senha" placeholder="Senha">
-                    <a class="link_esqueceu-senha" href="#">Esqueceu a senha?</a>
+                    <a class="link_esqueceu-senha" href="recuperar-senha.php">Esqueceu a senha?</a>
                     <a class="btn-login-2" href="home.php">Entrar</a>
                 </form>
                 <div class="divisor"></div>
@@ -42,6 +42,7 @@
                     </div>
                     <input class="input-100" id="cademail" type="text" placeholder="Email">
                     <input class="input-100" id="cadsenha"  type="password" placeholder="Senha">
+                    <input class="input-100" type="password" placeholder="Confirmar senha">
                     <p class="p_dt-nasc">Data de nascimento</p>
                     <div class="criar-conta_dt-nasc">
                         <select id="dia" class="select-dia">                        

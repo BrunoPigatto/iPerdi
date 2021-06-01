@@ -1358,6 +1358,65 @@ button:focus {
     align-items: center;
     justify-content: center;
 }
+.section_recuperar-senha{
+    width: 100%;
+    height: 50vh;
+}
+.div_recuperar-senha{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form_recuperar-senha{
+    display: flex;
+    flex-direction: column;
+    padding: 18px;
+    background-color: #FFFFFF;
+    border-radius: 4px;
+    margin-top: 140px;
+}
+.form_recuperar-senha input{
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-bottom: 12px;
+    background: #FFFFFF;
+    outline: none;
+    border: 1px solid #dddfe2;
+    border-radius: 10px;
+    height: 40px;
+}
+.form_recuperar-senha .botoes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.btn_recupsenha{
+    width: 100%;
+    height: 40px;
+    background-color: #45AD4C;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+    margin-bottom: 12px;
+    margin-top: 30px;
+}
+.form_recuperar-senha .btn_voltar{
+    width: 100%;
+    height: 40px;
+    background-color: #155A9E;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+}
+.trocar-senha{
+width: 502px;
+}
 
 /* Responsivo*/
 @media(max-width: 1666px){

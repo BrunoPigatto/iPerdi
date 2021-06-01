@@ -1,7 +1,7 @@
 <?php include "header-sistema.php" ?>
 
 <section class="section-1_cadastrar-doc">
-    <h1 style="padding-left:15px;margin-bottom:50px;">Selecione o tipo de documento</h1>
+    <h1 style="padding-left:15px;margin-bottom:50px;">Selecione o tipo de documento perdido</h1>
 
     <div class="div_tipos-doc">
         <div class="div_tipo-cpf">
