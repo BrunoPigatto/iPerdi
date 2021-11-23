@@ -6,7 +6,7 @@
 <div class="geral">
     <div class="header">
         <div class="avatar_nome">
-            <img src="img/woman" alt="">
+            <img src="img/woman.svg" alt="">
             <p>Amanda Abreu</p>
         </div>
     </div> <!-- fim header -->
